@@ -2,4 +2,6 @@ These are very rudimentary experiments with autogen and vertex to provide summar
 
 Update the .env and the OAI_CONFIG_LIST with your API keys.
 
-Run pip install requirements.txt, but be warned the imports likely need to be cleaned up.
+Run pip install requirements.txt, but be warned the imports likely need to be cleaned up.j
+
+Built on python 3.11
