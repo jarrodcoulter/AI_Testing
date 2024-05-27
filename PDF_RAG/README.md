@@ -16,3 +16,5 @@ Ollama has a Docker image, so setup is easy. You can modify the model variable a
 1. Test various local embeddings
 2. Attempt to poison local models
 3. Create rules to prevent poisoning
+4. Extend to other doc types
+5. Add file upload feature to interface
