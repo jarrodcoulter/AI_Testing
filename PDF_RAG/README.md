@@ -3,7 +3,8 @@ This is a method to have a conversation with your PDF documents through AI. This
 Ollama has a Docker image, so setup is easy. You can modify the model variable and use a LangChain import to use Ollama.
 
 ### Setup
-```1. Add your API key to the .env file.
+```
+1. Add your API key to the .env file.
 2. pip install -r requirements.txt
 3. Add PDFs to the Docs folder
 4. python Vectorize.py
