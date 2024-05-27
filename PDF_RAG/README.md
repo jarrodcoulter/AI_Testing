@@ -1,6 +1,7 @@
 # Intro
-This is a method to have a conversation with your PDF documents through AI. This version is setup to run through ChatGPT, however I recommend testing by running this through something like Ollama.
-Ollama has a Docker image, so setup is easy. You can modify the model variable and use a LangChain import to use Ollama.
+This is a method to have a conversation with your PDF documents through AI and Retrieval-Augmented Generation. This version is setup to run through ChatGPT, however I recommend testing by running this through something like Ollama. Ollama has a Docker image, so setup is easy. You can modify the model variable and use a LangChain import to use Ollama.
+
+Run Vectorize.py as a cron job on a linux server as a way to add documents and have them embedded for retrieval. You are responsible to adhere to any copyrights on the PDFs you use with this program.
 
 ### Setup
 ```
@@ -18,3 +19,4 @@ Ollama has a Docker image, so setup is easy. You can modify the model variable a
 3. Create rules to prevent poisoning
 4. Extend to other doc types
 5. Add file upload feature to interface
+6. Add logger function to replace print statements
