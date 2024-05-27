@@ -8,7 +8,8 @@ Ollama has a Docker image, so setup is easy. You can modify the model variable a
 3. Add PDFs to the Docs folder
 4. python Vectorize.py
 5. python interface.py
-6. open browser to 127.0.0.1:7860```
+6. open browser to 127.0.0.1:7860
+```
 
 ### TODO
 1. Test various local embeddings
