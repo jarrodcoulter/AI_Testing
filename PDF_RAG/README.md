@@ -1,8 +1,8 @@
-#Intro
+# Intro
 This is a method to have a conversation with your PDF documents through AI. This version is setup to run through ChatGPT, however I recommend testing by running this through something like Ollama.
 Ollama has a Docker image, so setup is easy. You can modify the model variable and use a LangChain import to use Ollama.
 
-###Setup
+### Setup
 '''
 1. Add your API key to the .env file.
 2. pip install -r requirements.txt
@@ -12,7 +12,7 @@ Ollama has a Docker image, so setup is easy. You can modify the model variable a
 6. open browser to 127.0.0.1:7860
 '''
 
-###TODO
+### TODO
 1. Test various local embeddings
 2. Attempt to poison local models
 3. Create rules to prevent poisoning
