@@ -18,3 +18,4 @@ You are responsible for adhering to the terms of any blog or RSS feed you parse.
 2. Create vectorize class to add to vector database with the PDF_RAG project
 3. Actually Test this
 4. Learn how to code
+5. Create a cleanup function or script to clear out old text file entries
