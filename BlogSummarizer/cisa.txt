@@ -1,0 +1,3 @@
+https://www.cisa.gov/cybersecurity-advisories/alerts.xml
+https://www.cisa.gov/cybersecurity-advisories/analysis-reports.xml
+https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml
