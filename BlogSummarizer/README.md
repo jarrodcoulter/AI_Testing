@@ -19,3 +19,4 @@ You are responsible for adhering to the terms of any blog or RSS feed you parse.
 3. Actually Test this
 4. Learn how to code
 5. Create a cleanup function or script to clear out old text file entries
+6. Add slack hook
