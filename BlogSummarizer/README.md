@@ -16,4 +16,5 @@ You are responsible for adhering to the terms of any blog or RSS feed you parse.
 ### TODO
 1. Add Logger function
 2. Create vectorize class to add to vector database with the PDF_RAG project
-3. Learn how to code
+3. Actually Test this
+4. Learn how to code
